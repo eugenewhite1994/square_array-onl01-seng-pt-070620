@@ -1,5 +1,5 @@
 def square_array(array)
-  array.each do |number|
+  array = []
     puts #{number} * #{number}
     puts#[number * 2}
 end
